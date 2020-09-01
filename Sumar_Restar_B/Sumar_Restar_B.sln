@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumarB", "SumarB\SumarB.csproj", "{5F16E787-A795-4E9B-A76C-B8303092B4C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSumar", "UnitTestSumar\UnitTestSumar.csproj", "{3F72D759-DEFD-430E-8A76-746DE9F2C18E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestSumar", "UnitTestSumar\UnitTestSumar.csproj", "{3F72D759-DEFD-430E-8A76-746DE9F2C18E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMultiply", "UnitTestMultiply\UnitTestMultiply.csproj", "{5F6D19F0-3F61-4196-9E1A-65130519B8DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3F72D759-DEFD-430E-8A76-746DE9F2C18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F72D759-DEFD-430E-8A76-746DE9F2C18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F72D759-DEFD-430E-8A76-746DE9F2C18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6D19F0-3F61-4196-9E1A-65130519B8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6D19F0-3F61-4196-9E1A-65130519B8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6D19F0-3F61-4196-9E1A-65130519B8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6D19F0-3F61-4196-9E1A-65130519B8DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
